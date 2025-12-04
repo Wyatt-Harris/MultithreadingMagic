@@ -1,4 +1,5 @@
-**Multithreading Magic**  
+**Wyatt Harris CSC325**  
+**Threads Of Magic**  
 - In this text-based adventure game, follow around the famous trio from the Harry Potter series in order to find and solve Horcruxes hidden at Hogwarts. Have chance encounters with dementors, traps, and potions that will put the fate of the wizarding and muggle worlds in danger!
 
 **Features & Use Cases**     
